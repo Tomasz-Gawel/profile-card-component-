@@ -1,0 +1,27 @@
+body
+{
+  margin-top: 200px;
+  text-align: center;
+}
+.main-container{
+display: flex;
+flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin:auto;
+  height: 400px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.p-c{
+width:300px;
+height: 230px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+}
+.image-victor{
+border-radius: 50%;
+
+}
